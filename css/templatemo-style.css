@@ -465,8 +465,9 @@ section {
 }
 
 @media screen and (max-width: 720px) {
-  #about  {
+  #about  img{
     margin-left: 125px;
+    margin-top: -135px;
   }
 }
 
@@ -747,7 +748,7 @@ section {
 
 footer {
   background: #252020;
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 footer .section-title {
